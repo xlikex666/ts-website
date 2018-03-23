@@ -34,7 +34,7 @@ Oto dedykowany plik na regulamin twojego Teamspeaka wyświetlany na podstronie "
 - Lista
 - Lista
 
-### 5. Tabela kar
+### 5. Tabela kar za wszystko
 Przewinienie | Kara
 ------------ | -------------
 Wulgarny nick | Kick z serwera
