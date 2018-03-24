@@ -1,43 +1,38 @@
-### Server Rules
+### Ogólne informacje ###
 
-In dieser Datei werden die Server Regeln eingetragen welche dann auf der Seite "rules.php" angezeigt werden. Zum Ändern muss einfach die Datei <code>rules.md</code> im Verzeichnis <code>config</code> verändert werden.
+1. Nieznajomość regulaminu nie zwalnia z jego nieprzestrzegania. 
+2. Korzystanie z serwera jest bezpłatne.
+3. Regulamin może w każdej chwili ulec zmianie bez informowania o tym użytkowników ale i tak was poinformujemy.
+4. Administracja nie ponosi odpowiedzialności za problemy związane z działaniem serwera.
+5. W celu otrzymania własnego kanału lub ikon zgłoś się do Admina lub Serwer Admina.
+6. Administracja serwara egzekwuje zasady w momencie wykrycia złamania regulaminu.
+7. Lista Administracji serwera jest zapisana na poczekalni.
+8. Najważniejszą rzeczą jest zabawa i miłe spędzanie czasu.
+9. Administrator ma prawo wyrzucić użytkownika nie będącego aktywnym.
 
-<br>
+### Zakazy (powinniście je znać) ###
 
-This is a dedicated file to keep your server rules. Its loaded and displayed on "rules.php" page. To change it, go to the <code>config</code> directory and edit file <code>rules.md</code>
+1. Zakaz obrażania.
+2. Zakaz ustawiania nicków obraźliwych, wulgarnych i podszywania się pod użytkowników teamspeak'a.
+3. Zakaz zamieszczania obrazów : wszytko co może nie spodobać się administracji.
+4. Zakaz spamowania (niechciane lub niepotrzebne wiadomości elektroniczne).
+5. Zakaz nagrywania bez zgody nagrywanych osób.
+6. Zakaz krzyczenia, piszczenia, gwizdania lub wydawania irytujących dźwięków przy osobach, które tego nie chcą.
+7. Zakaz notorycznego zmieniania kanałów.
+8. Zabrania się ustawiania nazw pokojów z Nickami Administracji.
+9. Zakaz posiadania innej niż wskazuje na to płeć użytkownika nawet w 2018 roku.
 
-<br>
-
-Oto dedykowany plik na regulamin twojego Teamspeaka wyświetlany na podstronie "regulamin". Plik z regulaminem znajdziesz w folderze <code>config</code> pod nazwą <code>rules.md</code>. Edytuje się go podobnie jak newsy.
-
-<br>
-
-### 1. Definicje
-1. Teamspeak - oprogramowanie służące do komunikacji...
-2. ...
+### Administracja to ludzie bezstronni ###
+1. Nie nadużywają władzy.
+2. Nie przeszkadzają użytkowniką.
+3. Nie faforyzują poszczególnych uzytkowników.
+4. Nie ignoruje próśb uzytkowników.
 
 
-### 2. Postanowienia ogólne
-1. Serwer Teamspeak pod adresem "127.0.0.1" jest...
-2. ...
-
-### 3. Tytuł
-1. Lista
-  - Sublista
-  - Sublista
-  - Sublista
-2. Lista
-3. Lista
-
-### 4. Tytuł
-- Lista
-- Lista
-- Lista
-
-### 5. Tabela kar
+### Co was czeka.. ###
 Przewinienie | Kara
 ------------ | -------------
-Wulgarny nick | Kick z serwera
-Wulgarna nazwa kanału | Usunięcie z kanału
-Wyzywanie użytkowników | Ban do 7 dni
-Zniewaga administracji | Ban permanentny
+Wulgarny nick | kick lub ban 10 min
+Wulgarna nazwa kanału | Usunięcie z kanału lub gorzej
+Wyzywanie użytkowników | Ban do 27 lat i 144 dni
+Ogólne łamanie regulaminu | Ban według uznania administracji
